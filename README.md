@@ -1,4 +1,4 @@
-#ReportTool.py
+# ReportTool.py
 
 - Mass Reporting tool -
 - Go to [Tiktok](https://www.tiktok.com/@uql.y) Right click inspect element.
