@@ -17,7 +17,7 @@ print(Fore.MAGENTA + """
 
 x = input('Enter Url: ')
 print("Success!")
-time.sleep(3)
+time.sleep(2)
 
 os.system("cls")
 
