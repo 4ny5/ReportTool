@@ -1,6 +1,6 @@
 # ReportTool.py
 
-- Mass Reporting tool
+- Mass Reporting tool for TikTok
 - Go to [Tiktok](https://www.tiktok.com/@uql.y) Right click inspect element.
 Networking, next report the tiktok account and then after thats done. Wait until you get this
 then. Right click and copy address and then open up Start.bat and paste in the url and done.
