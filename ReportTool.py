@@ -22,8 +22,6 @@ os.system("cls")
 print("Welcome, " + os.getlogin() + ".")
 
 x = input('Enter Target url: ')
-print("Success!")
-time.sleep(2)
 
 os.system("cls")
 
