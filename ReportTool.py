@@ -30,5 +30,5 @@ while True:
     Post = session.post(x)
     print(" Successfuly Sent Report " + Post.text)
 
-    time.sleep(3)
+    time.sleep(2)
 input()
