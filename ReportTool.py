@@ -15,7 +15,7 @@ print(Fore.MAGENTA + """
 ╚═╝  ╚═╝╚══════╝╚═╝      ╚════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝    ╚════╝  ╚════╝ ╚══════╝╚═╝╚═╝        ╚═╝
 """)
 print("Tip: Toggle a vpn before using this, before getting ip banned by tiktok.")
-time.sleep(2)
+time.sleep(3)
 os.system("cls")
 
 
