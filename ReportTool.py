@@ -14,8 +14,14 @@ print(Fore.MAGENTA + """
 ██║  ██║███████╗██║     ╚█████╔╝██║  ██║   ██║      ██║   ╚█████╔╝╚█████╔╝███████╗██╗██║        ██║
 ╚═╝  ╚═╝╚══════╝╚═╝      ╚════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝    ╚════╝  ╚════╝ ╚══════╝╚═╝╚═╝        ╚═╝
 """)
+print("Tip: Toggle a vpn before using this, before getting ip banned by tiktok.")
+time.sleep(3)
+os.system("cls")
 
-x = input('Enter Url: ')
+
+print("Welcome, " + os.getlogin() + ".")
+
+x = input('Enter Target url: ')
 print("Success!")
 time.sleep(2)
 
