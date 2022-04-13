@@ -15,7 +15,7 @@ print(Fore.MAGENTA + """
 ╚═╝  ╚═╝╚══════╝╚═╝      ╚════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝    ╚════╝  ╚════╝ ╚══════╝╚═╝╚═╝        ╚═╝
 """)
 print("Tip: Toggle a vpn before using this, before getting ip banned by tiktok.")
-time.sleep(3)
+time.sleep(2)
 os.system("cls")
 
 
@@ -33,5 +33,4 @@ while True:
     print(" Successfuly Sent Report " + Post.text)
 
     time.sleep(3)
-    print("Rate Limited")
 input()
